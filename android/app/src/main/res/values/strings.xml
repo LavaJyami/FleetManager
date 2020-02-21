@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VehicleManager</string>
+    <string name="fb_app_id">835783419925331</string>
+    <string name="fb_login_protocol_scheme">fb835783419925331</string>
+</resources>
